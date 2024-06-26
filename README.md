@@ -1,3 +1,26 @@
+## quaternion_operation (jazzy) - 0.0.12-1
+
+The packages in the `quaternion_operation` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy quaternion_operation --override-release-repository-push-url git@github.com:revyos-ros/quaternion_operation-release` on `Wed, 26 Jun 2024 11:03:57 -0000`
+
+The `quaternion_operation` package was released.
+
+Version of package(s) in repository `quaternion_operation`:
+
+- upstream repository: https://github.com/OUXT-Polaris/quaternion_operation.git
+- release repository: https://github.com/revyos-ros/quaternion_operation-release.git
+- rosdistro version: `0.0.7-5`
+- old version: `0.0.7-5`
+- new version: `0.0.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## quaternion_operation (rolling) - 0.0.12-1
 
 The packages in the `quaternion_operation` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --ros-distro rolling quaternion_operation` on `Tue, 14 Feb 2023 17:45:53 -0000`
