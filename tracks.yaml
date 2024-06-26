@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/quaternion_operation-release
 tracks:
   foxy:
     actions:
